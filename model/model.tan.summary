@@ -1,0 +1,46 @@
+--------------------------------------------------------------------------------------
+Timing Analyzer Summary
+--------------------------------------------------------------------------------------
+
+Type           : Worst-case tco
+Slack          : N/A
+Required Time  : None
+Actual Time    : 28.175 ns
+From           : reg:inst|dff1:inst5|q1[2]
+To             : BUS[2]
+From Clock     : CLK
+To Clock       : --
+Failed Paths   : 0
+
+Type           : Clock Setup: 'CLK'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 31.15 MHz ( period = 32.098 ns )
+From           : reg:inst|dff1:inst5|q1[2]
+To             : ctl:inst5|lpm_latch0:inst3|lpm_latch:lpm_latch_component|latches[2]
+From Clock     : CLK
+To Clock       : CLK
+Failed Paths   : 0
+
+Type           : Clock Hold: 'CLK'
+Slack          : Not operational: Clock Skew > Data Delay
+Required Time  : None
+Actual Time    : N/A
+From           : ctl:inst5|ia:inst|RS1[0]
+To             : reg:inst|dff1:inst5|q1[9]
+From Clock     : CLK
+To Clock       : CLK
+Failed Paths   : 3605
+
+Type           : Total number of failed paths
+Slack          : 
+Required Time  : 
+Actual Time    : 
+From           : 
+To             : 
+From Clock     : 
+To Clock       : 
+Failed Paths   : 3605
+
+--------------------------------------------------------------------------------------
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="model">
+		<CBX_INST_ENTRY INSTANCE_NAME="|model|pc:inst3|lpm_counter0:inst|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_q3j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|model|ram:inst2|lpm_ram_dq1:inst7|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_1bi1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|model|reg:inst|lpm_mux0:inst8|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_p4e.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

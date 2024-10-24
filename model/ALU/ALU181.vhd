@@ -1,0 +1,50 @@
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+USE IEEE.STD_LOGIC_UNSIGNED.ALL;
+
+ENTITY ALU181 IS
+PORT ( 
+S  : IN  STD_LOGIC_VECTOR(3 DOWNTO 0 ); --4位输入信号，用于选择操作
+A,B  : IN  STD_LOGIC_VECTOR(15 DOWNTO 0); --8位输入信号，表示操作数
+F  : OUT STD_LOGIC_VECTOR(15 DOWNTO 0); --8位输入信号，表示操作数
+COUT : OUT STD_LOGIC_VECTOR(3 DOWNTO 0); --4位输出信号，表示进位输出
+M,CN  : IN  STD_LOGIC; --单比特输入信号，分别表示模式选择和进位输入
+CO,FZ : OUT STD_LOGIC --单比特输出信号，分别表示进位输出和零标志
+);
+END ALU181;
+
+ARCHITECTURE behav OF ALU181 IS
+SIGNAL A9,B9,F9 : STD_LOGIC_VECTOR(16 DOWNTO 0);
+BEGIN
+A9 <= '0' & A ;  B9 <= '0' & B ;
+
+PROCESS(M,CN,A9,B9)
+BEGIN
+
+CASE S  IS
+WHEN "0000" =>NULL; --IF M='0' THEN F9<=A9 + CN;                         ELSE F9<=NOT A9;          END IF
+WHEN "0001" =>IF M='0' THEN F9<=(A9 OR B9)+CN;                   ELSE F9<=NOT(A9 OR B9);   END IF;
+WHEN "0010" =>IF M='0' THEN F9<=(A9 OR (NOT B9))+CN;             ELSE F9<=(NOT A9) AND B9; END IF;
+WHEN "0011" =>IF M='0' THEN F9<= "00000000000000000"-CN;         ELSE F9<="00000000000000000";     END IF;
+WHEN "0100" =>IF M='0' THEN F9<=A9+(A9 AND NOT B9)+CN;           ELSE F9<=NOT (A9 AND B9); END IF;
+WHEN "0101" =>IF M='0' THEN F9<=(A9 OR B9)+(A9 AND NOT B9)+CN;   ELSE F9<=NOT B9;          END IF;
+WHEN "0110" =>IF M='0' THEN F9<=A9 -B9 - CN;                     ELSE F9<=A9 XOR B9;       END IF;
+WHEN "0111" =>IF M='0' THEN F9<=(A9 AND (NOT B9))-CN;            ELSE F9<=A9 AND (NOT B9); END IF;
+WHEN "1000" =>IF M='0' THEN F9<=A9 + (A9 AND B9)+CN;             ELSE F9<=(NOT A9) OR B9;  END IF;
+WHEN "1001" =>IF M='0' THEN F9<=A9 + B9 + CN;                    ELSE F9<=NOT(A9 XOR B9);  END IF;
+WHEN "1010" =>IF M='0' THEN F9<=(A9 OR (NOT B9))+(A9 AND B9)+CN; ELSE F9<=B9;              END IF;
+WHEN "1011" =>IF M='0' THEN F9<=(A9 AND B9)- CN;                 ELSE F9<=A9 AND B9;       END IF;
+WHEN "1100" =>IF M='0' THEN F9<=A9 + A9 + CN;                    ELSE F9<= "00000000000000001";    END IF;
+WHEN "1101" =>IF M='0' THEN F9<=(A9 OR B9)+A9 + CN;              ELSE F9<=A9 OR (NOT B9);  END IF;
+WHEN "1110" =>IF M='0' THEN F9<=(A9 OR(NOT B9))+A9+CN;           ELSE F9<=A9 OR B9;        END IF;
+WHEN "1111" =>IF M='0' THEN F9<=A9-CN;                           ELSE F9<=A9;              END IF;
+WHEN OTHERS  =>F9<= "00000000000000000" ;
+END CASE;
+
+-- IF (A9 = B9) THEN FZ <= '0'; END IF;
+IF (F9 = "00000000000000000") THEN FZ <= '1'; ELSE FZ <= '0'; END IF;
+END PROCESS;
+
+F<= F9(15 DOWNTO 0);   CO <= F9(16);
+COUT <= "0000" WHEN F9(16) = '0'   ELSE  "0001" ;
+END behav;
