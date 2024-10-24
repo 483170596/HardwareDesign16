@@ -70,25 +70,8 @@
       class="cke_widget_element"
       isbindedload="true"
       alt=""
-    /><span
-      class="cke_reset cke_widget_drag_handler_container"
-      style="
-        background: url('https://csdnimg.cn/release/blog_editor_html/release2.3.7/ckeditor/plugins/widget/images/handle.png')
-          rgba(220, 220, 220, 0.5);
-        top: 0px;
-        left: 0px;
-      "
-      ><img
-        class="cke_reset cke_widget_drag_handler"
-        data-cke-widget-drag-handler="1"
-        src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="
-        width="15"
-        title="点击并拖拽以移动"
-        height="15"
-        role="presentation"
-        draggable="true" /></span
-    ><span class="cke_image_resizer" title="点击并拖拽以改变尺寸">​</span
-    ><span class="cke_widget_edit_container" title="编辑图片">编辑</span></span
+    /></span
+    ></span
   ><br />
 </p>
 <h3 style="margin-left: 0.0001pt; margin-right: 0px; text-align: justify">
@@ -1419,24 +1402,7 @@ end&nbsp;architecture&nbsp;bhv;</code></pre>
       class="cke_widget_element"
       isbindedload="true"
       alt=""
-    /><span
-      class="cke_reset cke_widget_drag_handler_container"
-      style="
-        background: rgba(220, 220, 220, 0.5);
-        background-image: url(https://csdnimg.cn/release/blog_editor_html/release2.3.7/ckeditor/plugins/widget/images/handle.png);
-        display: none;
-      "
-      ><img
-        class="cke_reset cke_widget_drag_handler"
-        data-cke-widget-drag-handler="1"
-        src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="
-        width="15"
-        title="点击并拖拽以移动"
-        height="15"
-        role="presentation"
-        draggable="true" /></span
-    ><span class="cke_image_resizer" title="点击并拖拽以改变尺寸">​</span
-    ><span class="cke_widget_edit_container" title="编辑图片">编辑</span></span
+    /></span
   ><br />
 </p>
 <p style="margin-left: 0.0001pt; margin-right: 0; text-align: justify">
@@ -1474,24 +1440,7 @@ end&nbsp;architecture&nbsp;bhv;</code></pre>
       class="cke_widget_element"
       isbindedload="true"
       alt=""
-    /><span
-      class="cke_reset cke_widget_drag_handler_container"
-      style="
-        background: rgba(220, 220, 220, 0.5);
-        background-image: url(https://csdnimg.cn/release/blog_editor_html/release2.3.7/ckeditor/plugins/widget/images/handle.png);
-        display: none;
-      "
-      ><img
-        class="cke_reset cke_widget_drag_handler"
-        data-cke-widget-drag-handler="1"
-        src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="
-        width="15"
-        title="点击并拖拽以移动"
-        height="15"
-        role="presentation"
-        draggable="true" /></span
-    ><span class="cke_image_resizer" title="点击并拖拽以改变尺寸">​</span
-    ><span class="cke_widget_edit_container" title="编辑图片">编辑</span></span
+    /></span
   ><br />
 </p>
 <p style="margin-left: 0.0001pt; margin-right: 0; text-align: justify">
@@ -1526,24 +1475,7 @@ end&nbsp;architecture&nbsp;bhv;</code></pre>
       class="cke_widget_element"
       isbindedload="true"
       alt=""
-    /><span
-      class="cke_reset cke_widget_drag_handler_container"
-      style="
-        background: rgba(220, 220, 220, 0.5);
-        background-image: url(https://csdnimg.cn/release/blog_editor_html/release2.3.7/ckeditor/plugins/widget/images/handle.png);
-        display: none;
-      "
-      ><img
-        class="cke_reset cke_widget_drag_handler"
-        data-cke-widget-drag-handler="1"
-        src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="
-        width="15"
-        title="点击并拖拽以移动"
-        height="15"
-        role="presentation"
-        draggable="true" /></span
-    ><span class="cke_image_resizer" title="点击并拖拽以改变尺寸">​</span
-    ><span class="cke_widget_edit_container" title="编辑图片">编辑</span></span
+    /></span
   ><br />
 </p>
 <h4 style="margin-left: 0.0001pt; margin-right: 0px; text-align: justify">
@@ -1690,24 +1622,7 @@ END&nbsp;behav;</code></pre>
       class="cke_widget_element"
       isbindedload="true"
       alt=""
-    /><span
-      class="cke_reset cke_widget_drag_handler_container"
-      style="
-        background: rgba(220, 220, 220, 0.5);
-        background-image: url(https://csdnimg.cn/release/blog_editor_html/release2.3.7/ckeditor/plugins/widget/images/handle.png);
-        display: none;
-      "
-      ><img
-        class="cke_reset cke_widget_drag_handler"
-        data-cke-widget-drag-handler="1"
-        src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="
-        width="15"
-        title="点击并拖拽以移动"
-        height="15"
-        role="presentation"
-        draggable="true" /></span
-    ><span class="cke_image_resizer" title="点击并拖拽以改变尺寸">​</span
-    ><span class="cke_widget_edit_container" title="编辑图片">编辑</span></span
+    /></span
   ><br />
 </p>
 <p style="margin-left: 0.0001pt; margin-right: 0; text-align: justify">
@@ -1741,24 +1656,7 @@ END&nbsp;behav;</code></pre>
       class="cke_widget_element"
       isbindedload="true"
       alt=""
-    /><span
-      class="cke_reset cke_widget_drag_handler_container"
-      style="
-        background: rgba(220, 220, 220, 0.5);
-        background-image: url(https://csdnimg.cn/release/blog_editor_html/release2.3.7/ckeditor/plugins/widget/images/handle.png);
-        display: none;
-      "
-      ><img
-        class="cke_reset cke_widget_drag_handler"
-        data-cke-widget-drag-handler="1"
-        src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="
-        width="15"
-        title="点击并拖拽以移动"
-        height="15"
-        role="presentation"
-        draggable="true" /></span
-    ><span class="cke_image_resizer" title="点击并拖拽以改变尺寸">​</span
-    ><span class="cke_widget_edit_container" title="编辑图片">编辑</span></span
+    /></span
   ><br />
 </p>
 <h4 style="margin-left: 0.0001pt; margin-right: 0px; text-align: justify">
@@ -1808,24 +1706,7 @@ END&nbsp;behav;</code></pre>
       class="cke_widget_element"
       isbindedload="true"
       alt=""
-    /><span
-      class="cke_reset cke_widget_drag_handler_container"
-      style="
-        background: rgba(220, 220, 220, 0.5);
-        background-image: url(https://csdnimg.cn/release/blog_editor_html/release2.3.7/ckeditor/plugins/widget/images/handle.png);
-        display: none;
-      "
-      ><img
-        class="cke_reset cke_widget_drag_handler"
-        data-cke-widget-drag-handler="1"
-        src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="
-        width="15"
-        title="点击并拖拽以移动"
-        height="15"
-        role="presentation"
-        draggable="true" /></span
-    ><span class="cke_image_resizer" title="点击并拖拽以改变尺寸">​</span
-    ><span class="cke_widget_edit_container" title="编辑图片">编辑</span></span
+    /></span
   ><br />
 </p>
 <p style="margin-left: 0.0001pt; margin-right: 0; text-align: justify">
@@ -1859,24 +1740,7 @@ END&nbsp;behav;</code></pre>
       class="cke_widget_element"
       isbindedload="true"
       alt=""
-    /><span
-      class="cke_reset cke_widget_drag_handler_container"
-      style="
-        background: rgba(220, 220, 220, 0.5);
-        background-image: url(https://csdnimg.cn/release/blog_editor_html/release2.3.7/ckeditor/plugins/widget/images/handle.png);
-        display: none;
-      "
-      ><img
-        class="cke_reset cke_widget_drag_handler"
-        data-cke-widget-drag-handler="1"
-        src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="
-        width="15"
-        title="点击并拖拽以移动"
-        height="15"
-        role="presentation"
-        draggable="true" /></span
-    ><span class="cke_image_resizer" title="点击并拖拽以改变尺寸">​</span
-    ><span class="cke_widget_edit_container" title="编辑图片">编辑</span></span
+    /></span
   ><br />
 </p>
 <p style="margin-left: 0.0001pt; margin-right: 0; text-align: justify">
@@ -1921,25 +1785,7 @@ END&nbsp;behav;</code></pre>
       class="cke_widget_element"
       isbindedload="true"
       alt=""
-    /><span
-      class="cke_reset cke_widget_drag_handler_container"
-      style="
-        background: url('https://csdnimg.cn/release/blog_editor_html/release2.3.7/ckeditor/plugins/widget/images/handle.png')
-          rgba(220, 220, 220, 0.5);
-        top: 0px;
-        left: 0px;
-      "
-      ><img
-        class="cke_reset cke_widget_drag_handler"
-        data-cke-widget-drag-handler="1"
-        src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="
-        width="15"
-        title="点击并拖拽以移动"
-        height="15"
-        role="presentation"
-        draggable="true" /></span
-    ><span class="cke_image_resizer" title="点击并拖拽以改变尺寸">​</span
-    ><span class="cke_widget_edit_container" title="编辑图片">编辑</span></span
+    /></span
   ><br />
 </p>
 <h4 style="margin-left: 0.0001pt; margin-right: 0px; text-align: justify">
@@ -1977,25 +1823,7 @@ END&nbsp;behav;</code></pre>
       class="cke_widget_element"
       isbindedload="true"
       alt=""
-    /><span
-      class="cke_reset cke_widget_drag_handler_container"
-      style="
-        background: url('https://csdnimg.cn/release/blog_editor_html/release2.3.7/ckeditor/plugins/widget/images/handle.png')
-          rgba(220, 220, 220, 0.5);
-        top: 0px;
-        left: 0px;
-      "
-      ><img
-        class="cke_reset cke_widget_drag_handler"
-        data-cke-widget-drag-handler="1"
-        src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="
-        width="15"
-        title="点击并拖拽以移动"
-        height="15"
-        role="presentation"
-        draggable="true" /></span
-    ><span class="cke_image_resizer" title="点击并拖拽以改变尺寸">​</span
-    ><span class="cke_widget_edit_container" title="编辑图片">编辑</span></span
+    /></span
   ><br />
 </p>
 <p style="margin-left: 0.0001pt; margin-right: 0; text-align: justify">
@@ -2031,25 +1859,7 @@ END&nbsp;behav;</code></pre>
       class="cke_widget_element"
       isbindedload="true"
       alt=""
-    /><span
-      class="cke_reset cke_widget_drag_handler_container"
-      style="
-        background: url('https://csdnimg.cn/release/blog_editor_html/release2.3.7/ckeditor/plugins/widget/images/handle.png')
-          rgba(220, 220, 220, 0.5);
-        top: 0px;
-        left: 0px;
-      "
-      ><img
-        class="cke_reset cke_widget_drag_handler"
-        data-cke-widget-drag-handler="1"
-        src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="
-        width="15"
-        title="点击并拖拽以移动"
-        height="15"
-        role="presentation"
-        draggable="true" /></span
-    ><span class="cke_image_resizer" title="点击并拖拽以改变尺寸">​</span
-    ><span class="cke_widget_edit_container" title="编辑图片">编辑</span></span
+    /></span
   ><br />
 </p>
 <h5 style="margin-left: 0.0001pt; margin-right: 0px; text-align: justify">
@@ -2090,24 +1900,7 @@ END&nbsp;behav;</code></pre>
       class="cke_widget_element"
       isbindedload="true"
       alt=""
-    /><span
-      class="cke_reset cke_widget_drag_handler_container"
-      style="
-        background: rgba(220, 220, 220, 0.5);
-        background-image: url(https://csdnimg.cn/release/blog_editor_html/release2.3.7/ckeditor/plugins/widget/images/handle.png);
-        display: none;
-      "
-      ><img
-        class="cke_reset cke_widget_drag_handler"
-        data-cke-widget-drag-handler="1"
-        src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="
-        width="15"
-        title="点击并拖拽以移动"
-        height="15"
-        role="presentation"
-        draggable="true" /></span
-    ><span class="cke_image_resizer" title="点击并拖拽以改变尺寸">​</span
-    ><span class="cke_widget_edit_container" title="编辑图片">编辑</span></span
+    /></span
   ><br />
 </p>
 <p style="margin-left: 0.0001pt; margin-right: 0; text-align: justify">
@@ -2147,25 +1940,7 @@ END&nbsp;behav;</code></pre>
       class="cke_widget_element"
       isbindedload="true"
       alt=""
-    /><span
-      class="cke_reset cke_widget_drag_handler_container"
-      style="
-        background: url('https://csdnimg.cn/release/blog_editor_html/release2.3.7/ckeditor/plugins/widget/images/handle.png')
-          rgba(220, 220, 220, 0.5);
-        top: 0px;
-        left: 0px;
-      "
-      ><img
-        class="cke_reset cke_widget_drag_handler"
-        data-cke-widget-drag-handler="1"
-        src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="
-        width="15"
-        title="点击并拖拽以移动"
-        height="15"
-        role="presentation"
-        draggable="true" /></span
-    ><span class="cke_image_resizer" title="点击并拖拽以改变尺寸">​</span
-    ><span class="cke_widget_edit_container" title="编辑图片">编辑</span></span
+    /></span
   ><br />
 </p>
 <h4
@@ -2207,25 +1982,7 @@ END&nbsp;behav;</code></pre>
       class="cke_widget_element"
       isbindedload="true"
       alt=""
-    /><span
-      class="cke_reset cke_widget_drag_handler_container"
-      style="
-        background: url('https://csdnimg.cn/release/blog_editor_html/release2.3.7/ckeditor/plugins/widget/images/handle.png')
-          rgba(220, 220, 220, 0.5);
-        top: 0px;
-        left: 0px;
-      "
-      ><img
-        class="cke_reset cke_widget_drag_handler"
-        data-cke-widget-drag-handler="1"
-        src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="
-        width="15"
-        title="点击并拖拽以移动"
-        height="15"
-        role="presentation"
-        draggable="true" /></span
-    ><span class="cke_image_resizer" title="点击并拖拽以改变尺寸">​</span
-    ><span class="cke_widget_edit_container" title="编辑图片">编辑</span></span
+    /></span
   ><br />
 </p>
 <h5 style="margin-left: 0.0001pt; margin-right: 0px; text-align: justify">
@@ -4633,24 +4390,7 @@ END&nbsp;behav;</code></pre>
       class="cke_widget_element"
       isbindedload="true"
       alt=""
-    /><span
-      class="cke_reset cke_widget_drag_handler_container"
-      style="
-        background: rgba(220, 220, 220, 0.5);
-        background-image: url(https://csdnimg.cn/release/blog_editor_html/release2.3.7/ckeditor/plugins/widget/images/handle.png);
-        display: none;
-      "
-      ><img
-        class="cke_reset cke_widget_drag_handler"
-        data-cke-widget-drag-handler="1"
-        src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="
-        width="15"
-        title="点击并拖拽以移动"
-        height="15"
-        role="presentation"
-        draggable="true" /></span
-    ><span class="cke_image_resizer" title="点击并拖拽以改变尺寸">​</span
-    ><span class="cke_widget_edit_container" title="编辑图片">编辑</span></span
+    /></span
   >&nbsp;<span style="color: #000000">状态转移表：</span>
 </h5>
 <table border="1" cellspacing="0" style="width: 99.96%">
@@ -5197,23 +4937,7 @@ ARCHITECTURE&nbsp;behav&nbsp;OF&nbsp;ia&nbsp;IS
 &nbsp;&nbsp;&nbsp;&nbsp;END&nbsp;PROCESS;
 
 END&nbsp;behav;</code></pre>
-  <span
-    class="cke_reset cke_widget_drag_handler_container"
-    style="
-      background: url('https://csdnimg.cn/release/blog_editor_html/release2.3.7/ckeditor/plugins/widget/images/handle.png')
-        rgba(220, 220, 220, 0.5);
-      top: 0px;
-      left: 0px;
-    "
-    ><img
-      class="cke_reset cke_widget_drag_handler"
-      data-cke-widget-drag-handler="1"
-      src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="
-      width="15"
-      title="点击并拖拽以移动"
-      height="15"
-      role="presentation"
-  /></span>
+
 </div>
 <h5 style="margin-left: 0.0001pt; margin-right: 0px; text-align: justify">
   <span style="color: #000000">状态机 sm 代码：</span>
@@ -5425,25 +5149,7 @@ END&nbsp;behav;</code></pre>
       class="cke_widget_element"
       isbindedload="true"
       alt=""
-    /><span
-      class="cke_reset cke_widget_drag_handler_container"
-      style="
-        background: url('https://csdnimg.cn/release/blog_editor_html/release2.3.7/ckeditor/plugins/widget/images/handle.png')
-          rgba(220, 220, 220, 0.5);
-        top: 0px;
-        left: 0px;
-      "
-      ><img
-        class="cke_reset cke_widget_drag_handler"
-        data-cke-widget-drag-handler="1"
-        src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="
-        width="15"
-        title="点击并拖拽以移动"
-        height="15"
-        role="presentation"
-        draggable="true" /></span
-    ><span class="cke_image_resizer" title="点击并拖拽以改变尺寸">​</span
-    ><span class="cke_widget_edit_container" title="编辑图片">编辑</span></span
+    /></span
   ><br />
 </p>
 <p style="margin-left: 0.0001pt; margin-right: 0; text-align: justify">
@@ -5500,25 +5206,7 @@ END&nbsp;behav;</code></pre>
       class="cke_widget_element"
       isbindedload="true"
       alt=""
-    /><span
-      class="cke_reset cke_widget_drag_handler_container"
-      style="
-        background: url('https://csdnimg.cn/release/blog_editor_html/release2.3.7/ckeditor/plugins/widget/images/handle.png')
-          rgba(220, 220, 220, 0.5);
-        top: 0px;
-        left: 0px;
-      "
-      ><img
-        class="cke_reset cke_widget_drag_handler"
-        data-cke-widget-drag-handler="1"
-        src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="
-        width="15"
-        title="点击并拖拽以移动"
-        height="15"
-        role="presentation"
-        draggable="true" /></span
-    ><span class="cke_image_resizer" title="点击并拖拽以改变尺寸">​</span
-    ><span class="cke_widget_edit_container" title="编辑图片">编辑</span></span
+    /></span
   ><br />
 </p>
 <h2 style="background-color: transparent">2.3 整机调试&nbsp;</h2>
@@ -5545,25 +5233,7 @@ END&nbsp;behav;</code></pre>
       class="cke_widget_element"
       isbindedload="true"
       alt=""
-    /><span
-      class="cke_reset cke_widget_drag_handler_container"
-      style="
-        background: url('https://csdnimg.cn/release/blog_editor_html/release2.3.7/ckeditor/plugins/widget/images/handle.png')
-          rgba(220, 220, 220, 0.5);
-        top: 0px;
-        left: 0px;
-      "
-      ><img
-        class="cke_reset cke_widget_drag_handler"
-        data-cke-widget-drag-handler="1"
-        src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="
-        width="15"
-        title="点击并拖拽以移动"
-        height="15"
-        role="presentation"
-        draggable="true" /></span
-    ><span class="cke_image_resizer" title="点击并拖拽以改变尺寸">​</span
-    ><span class="cke_widget_edit_container" title="编辑图片">编辑</span></span
+    /></span
   >&nbsp;2.3.1 测试程序设计
 </h3>
 <table border="1" cellspacing="0">
@@ -5816,25 +5486,7 @@ END&nbsp;behav;</code></pre>
       class="cke_widget_element"
       isbindedload="true"
       alt=""
-    /><span
-      class="cke_reset cke_widget_drag_handler_container"
-      style="
-        background: url('https://csdnimg.cn/release/blog_editor_html/release2.3.7/ckeditor/plugins/widget/images/handle.png')
-          rgba(220, 220, 220, 0.5);
-        top: 0px;
-        left: 0px;
-      "
-      ><img
-        class="cke_reset cke_widget_drag_handler"
-        data-cke-widget-drag-handler="1"
-        src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="
-        width="15"
-        title="点击并拖拽以移动"
-        height="15"
-        role="presentation"
-        draggable="true" /></span
-    ><span class="cke_image_resizer" title="点击并拖拽以改变尺寸">​</span
-    ><span class="cke_widget_edit_container" title="编辑图片">编辑</span></span
+    /></span
   >&nbsp;
 </p>
 <h3 style="margin-left: 0.0001pt; margin-right: 0px; text-align: justify">
@@ -6125,25 +5777,7 @@ END&nbsp;behav;</code></pre>
       class="cke_widget_element"
       isbindedload="true"
       alt=""
-    /><span
-      class="cke_reset cke_widget_drag_handler_container"
-      style="
-        background: url('https://csdnimg.cn/release/blog_editor_html/release2.3.7/ckeditor/plugins/widget/images/handle.png')
-          rgba(220, 220, 220, 0.5);
-        top: 0px;
-        left: 0px;
-      "
-      ><img
-        class="cke_reset cke_widget_drag_handler"
-        data-cke-widget-drag-handler="1"
-        src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="
-        width="15"
-        title="点击并拖拽以移动"
-        height="15"
-        role="presentation"
-        draggable="true" /></span
-    ><span class="cke_image_resizer" title="点击并拖拽以改变尺寸">​</span
-    ><span class="cke_widget_edit_container" title="编辑图片">编辑</span></span
+    /></span
   >&nbsp;
 </p>
 <p>后面的仿真结果省略………………<br /></p>
